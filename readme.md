@@ -1,7 +1,7 @@
 # Topics
 ### teacher repository https://github.com/teachingtechzone
 1. Github
-    0. download git from https://git-scm.com/
+    <!-- 0. download git from https://git-scm.com/
     1. git init
     2. git status
     3. git add .
@@ -12,7 +12,7 @@
     3. commit
     4. push
     5. pull
-    6. clone
+    6. clone -->
 1. Links
     1. Absolute Address
     2. Reletive Address
